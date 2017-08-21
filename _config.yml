@@ -5,7 +5,7 @@
 # Site
 title: 科技，让生活更美好
 subtitle: 创新，努力，坚持
-description: 既有视野又有思维的米波
+description: 既有视野又有思维的米波g
 author: opensmarty
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -92,7 +92,7 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/opensmarty/opensmarty.github.io.git
+  repository: git@github.com:opensmarty/opensmarty.github.io.git
   branch: master
 
 # 自动生成sitemap
